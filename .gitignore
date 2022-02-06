@@ -1,6 +1,7 @@
+tmp/
 .vscode/
 .mypy_cache/
-quicknotes_py.code-workspace
+qnsv.code-workspace
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
